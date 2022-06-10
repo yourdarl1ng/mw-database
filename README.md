@@ -17,7 +17,7 @@ and with print_content=True it will also print it out
 Function write_entry(name="database name", user_name="username", user_id=1234, user_age=1234, user_bio="this user's bio", user_adinfo="some other info user may specify") 
 adds a new user into the database
 
-Function read_user_info(name="database name", username="username :)") this function returns and user's info
+Function read_user_info(name="database name", username="username :)") this function returns an user's info
 
 Need help?
 Contact me on discord!
